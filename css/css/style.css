@@ -1,0 +1,79 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.fundo_nav{
+    background-color: #00740f;
+}
+
+.icon{
+    width: 75px;
+}
+
+.fundo_sob{
+    background-color: #00740f;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'M PLUS 1', sans-serif;
+    color: #00740f;
+}
+
+p{
+    font-family: 'M PLUS 1', sans-serif;
+    color: #000;
+}
+
+
+
+.hProj{
+    font-size: 18px;
+}
+
+.imggaleria{
+    width: 300px;
+    border-radius: 20px;
+    transition: width 1s, height 1s;
+}
+
+.imggaleria:hover{
+    width: 350px;
+}
+
+.prints{
+    border-radius: 10%;
+}
+
+.redes{
+    width: 75px;
+    transition: width 1s, height 1s;
+}
+
+.redes:hover{
+    width: 90px;
+}
+
+::-webkit-scrollbar{
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+::-webkit-scrollbar-thumb {
+    background: #00740f;
+    border-radius: 12px;
+}
+  
+::-webkit-scrollbar-thumb:hover {
+    background: #00740f;
+}
+
+.pmenor{
+    font-size: 0.9em;
+}
+
+.sobre{
+    background: #00740f;
+
+}
